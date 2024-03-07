@@ -1,6 +1,6 @@
 {
-  "name": "billymoor-graph-ql",
-  "version": "1.0.0", 
+  "name": "billymoor-graph-ql-second",
+  "version": "1.0.1", 
   "description": "created by billymoor",
   "main": "./src/index.js",
   "scripts": {
