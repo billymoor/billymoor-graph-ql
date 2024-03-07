@@ -1,6 +1,6 @@
 {
   "name": "billymoor-graph-ql-second",
-  "version": "1.0.1", 
+  "version": "1.0.2",
   "description": "created by billymoor",
   "main": "./src/index.js",
   "scripts": {
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/billymoor/billymoor-graph-ql.git" 
+    "url": "https://github.com/billymoor/billymoor-graph-ql.git"
   },
-  "keywords": [ 
-    "graphQL", 
+  "keywords": [
+    "graphQL",
     "",
     ""
   ],
-  "author": "billymoor", 
-  "license": "MIT"
+  "author": "billymoor",
+  "license": "MIT",
+  "dependencies": {
+    "billymoor": "^1.0.6"
+  }
 }
