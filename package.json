@@ -1,6 +1,6 @@
 {
   "name": "billymoor-graph-ql-second",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "created by billymoor",
   "main": "./src/index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   "dependencies": {
     "billymoor": "^1.0.7",
     "billymoorgraphql": "^1.0.9",
-    "color-palette-generator-1": "^1.0.1"
+    "color-palette-generator-1": "^1.0.1",
+    "mishartcl": "^1.0.1"
   }
 }
