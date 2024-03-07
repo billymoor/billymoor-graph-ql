@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/billymoor/billymoor-graph-ql.git" 
   },
   "keywords": [ 
-    "", 
+    "graphQL", 
     "",
     ""
   ],
-  "author": "", 
+  "author": "billymoor", 
   "license": "MIT"
 }
